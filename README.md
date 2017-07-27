@@ -4,7 +4,7 @@
 
 > This folder outlines the white paper of Mammoth Casino Chain. 
 
-- [English White Paper](https://github.com/MammothCasinoChain/Documents/blob/master/Whitepaper_EN.md)
+- [English White Paper](https://github.com/MammothCasinoChain/Documents/blob/master/MCC_Whitepaper_EN.md)
 
 ### Our Website
 
