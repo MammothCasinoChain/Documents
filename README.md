@@ -6,6 +6,7 @@
 
 - [English White Paper](https://github.com/MammothCasinoChain/Documents/blob/master/MCC_Whitepaper_EN.md) @MammothCasinoChain Dev.
 - [German White Paper](https://github.com/MammothCasinoChain/Documents/blob/master/MCC_Whitepaper_DE.md)  @haxllega
+- [Chinese White Paper](https://github.com/MammothCasinoChain/Documents/blob/master/MCC_Whitepaper_CN.md)  @afeizhai
 
 ### Our Website
 
