@@ -8,6 +8,7 @@
 - [German White Paper](https://github.com/MammothCasinoChain/Documents/blob/master/MCC_Whitepaper_DE.md)  @haxllega
 - [Chinese White Paper](https://github.com/MammothCasinoChain/Documents/blob/master/MCC_Whitepaper_CN.md)  @afeizhai
 
+
 ### Our Website
 
 * Contact Us? See  https://mammoth.casino 
@@ -16,3 +17,8 @@
   * Spanish  https://bitcointalk.org/index.php?topic=2060286.0
   * Chinese  https://bitcointalk.org/index.php?topic=2056906.0
   * German  https://bitcointalk.org/index.php?topic=2060528.0
+  * Filipino  https://bitcointalk.org/index.php?topic=2074949.0
+  * portuguese  https://bitcointalk.org/index.php?topic=2069643.0
+  * Vietnamese  https://bitcoingarden.org/forum/index.php?topic=17332.0
+  * Hindi  https://bitcointalk.org/index.php?topic=2071413.0
+  
